@@ -1,0 +1,1 @@
+- Don't create a ray at each iteration. Use the same and change the origin.
